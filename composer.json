@@ -1,9 +1,10 @@
 {
-  "name": "No Framework App",
+  "name": "c00lmk/no_framework_app",
   "description": "This is a simple PHP application build on top of no framework for the purpose of lerning",
   "license": "MIT",
   "require": {
-    "php": ">7.0.0"
+    "php": ">7.0.0",
+    "filp/whoops": "~2.1"
   },
   "autoload": {
     "psr-4": {
