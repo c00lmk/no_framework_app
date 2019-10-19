@@ -1,0 +1,13 @@
+{
+  "name": "No Framework App",
+  "description": "This is a simple PHP application build on top of no framework for the purpose of lerning",
+  "license": "MIT",
+  "require": {
+    "php": ">7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "no_framework_app\\": "src/"
+    }
+  }
+}
